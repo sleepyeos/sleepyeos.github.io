@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+}
+
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #f4f4f4;
+    color: #333;
+    
+}
+
+a {
+    color: #00aa19;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
