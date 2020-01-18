@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Scout Starchaser | Portfolio</title>
+<link rel="stylesheet" href="styles.css" />
+<script src="app.js" ></script>
+<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">   
+</head>
+<body>
+  <a href="index.html"><img src="image/compassnamesmall.png" class="logo-image"></a>
+  <hr>
+
+  <div class="project-outer">
+    <h3>Lilac</h3><br/>
+    <img src=""/><br/>
+    <p>A lightweight, minimalist library designed to make developing C applications on Linux easier. It contains components for exception handling, unit/integration testing, and garbage collection.</p><br/>
+
+    <a href="">GitHub</a>
+  </div>
+    <br/><hr/>
+    <h2>Contact Me</h2><br/>
+    <div class="grid-container">
+
+	<div>Freelancer.com: <a href="https://www.freelancer.com/u/sleepyeos">sleepyeos</a></div>
+	<div>Email: <a href="mailto:sleepyeos@protonmail.com">sleepyeos@protonmail.com</a></div>
+	<div>Jabber: <a href="xmpp:sleepyeos@5222.de">sleepyeos@5222.de</a></div>
+      </div>
+      
+</body>
+</html>
