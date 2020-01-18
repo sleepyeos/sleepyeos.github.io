@@ -10,7 +10,7 @@
 <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">   
 </head>
 <body>
-  <a href="index.html"><img src="image/compassnamesmall.png" class="logo-image"></a>
+  <img src="image/compassnamesmall.png" class="logo-image">
   <hr>
 
   <div class="project-outer">
