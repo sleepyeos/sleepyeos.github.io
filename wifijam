@@ -15,9 +15,8 @@
 
   <div class="project-outer">
     <h3>Project Name</h3><br/>
+    <p>Project Description</p><br/>
     <img src=""/><br/>
-    <p>Description</p><br/>
-
     <a href="">GitHub</a>
   </div>
     <br/><hr/>
