@@ -63,3 +63,7 @@ a {
     text-align: center;
 }
 
+.responsive {
+    max-width: 75%;
+    height: auto;
+}
